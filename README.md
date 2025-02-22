@@ -1,1 +1,1 @@
-# Budget-Buddy-Expense-Tracker-App
+# BudgetBuddy-Expense-Tracker
